@@ -42,5 +42,18 @@ I am an ambitious and driven person. I like to step out of my comfort zone to tr
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=diksha4248&theme=react-dark&hide_border=true&area=true)
 
+<h4>Achievements and Activities</h4>
+
+
+🌠 Selected as SWE Intern @ Microsoft 2023
+
+🌠 Working as a Research Trainee and Intern @ DRDO
+
+🌠 Founder @ CodeNavi
+
+🌠 I was a Mentee @ Microsoft Enagage 2022
+
+🌠 I was also a trainee @ Amazon Summer School 2022
+
 
 
