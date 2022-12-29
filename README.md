@@ -24,7 +24,7 @@ I am an ambitious and driven person. I like to step out of my comfort zone to tr
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **ROS And SLAM**
+- 🌱 I researched on Simultaneous Localisation and Mapping(SLAM) as a part of my internship at DRDO.
 
 - 😇 I am a **Microsoft Learn Student Ambassador**
 
@@ -47,7 +47,7 @@ I am an ambitious and driven person. I like to step out of my comfort zone to tr
 
 🌠 Selected as SWE Intern @ Microsoft 2023
 
-🌠 Working as a Research Trainee and Intern @ DRDO
+🌠 Worked as a Research Trainee and Intern @ DRDO
 
 🌠 Founder @ CodeNavi
 
