@@ -53,9 +53,9 @@ I am an ambitious and driven person. I like to step out of my comfort zone to tr
 
 🌠 Founder @ CodeNavi
 
-🌠 I was a Mentee @ Microsoft Enagage 2022
+🌠 Mentee @ Microsoft Enagage 2022
 
-🌠 I was also a trainee @ Amazon Summer School 2022
+🌠 Trainee @ Amazon Summer School 2022
 
 
 
