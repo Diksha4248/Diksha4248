@@ -68,7 +68,7 @@ I am an ambitious and driven person. I like to step out of my comfort zone to tr
 <h4>Achievements and Activities</h4>
 
 
-🌠 Selected as SWE Intern @ Microsoft 2023
+🌠 Upcoming SWE Intern @ Microsoft 2023
 
 🌠 Worked as a Research Trainee and Intern @ DRDO
 
@@ -77,6 +77,8 @@ I am an ambitious and driven person. I like to step out of my comfort zone to tr
 🌠 Mentee @ Microsoft Enagage 2022
 
 🌠 Trainee @ Amazon Summer School 2022
+
+🌠 Beta MLSA
 
 
 
