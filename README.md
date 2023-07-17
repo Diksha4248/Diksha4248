@@ -68,7 +68,7 @@ I am an ambitious and driven person. I like to step out of my comfort zone to tr
 <h4>Achievements and Activities</h4>
 
 
-🌠 Upcoming SWE Intern @ Microsoft 2023
+🌠 Former SWE Intern @ Microsoft 2023
 
 🌠 Worked as a Research Trainee and Intern @ DRDO
 
