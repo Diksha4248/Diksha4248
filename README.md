@@ -2,7 +2,7 @@
 
 ![Banner]( https://github.com/Diksha4248/Diksha4248/blob/main/Banner.gif)
 
-<h4 align="center">I am Diksha Prajapati, a third year CSE student in DYPCOE, Akurdi, Pune.
+<h4 align="center">I am Diksha Prajapati, a final year CSE student in DYPCOE, Akurdi, Pune.
 I am an ambitious and driven person. I like to step out of my comfort zone to try and learn different technologies . I am a machine learning enthusiast and a coder. I like to solve real life problems through machine learning algorithms. Apart from this, I am a huge fan of music and food !!
 :smile::stuck_out_tongue_winking_eye: </h4>
 
@@ -62,7 +62,7 @@ I am an ambitious and driven person. I like to step out of my comfort zone to tr
 ![image](https://img.shields.io/badge/Linux-F9AB00?style=for-the-badge&logo=Linux&logoColor=white)&nbsp;&nbsp;
 
 
-[![Diksha's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=diksha4248&theme=react-dark)](https://github.com/diksha4248/github-readme-activity-graph)
+[![Diksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=diksha4248&theme=github-compact)](https://github.com/diksha4248/github-readme-activity-graph)
 
 
 <h4>Achievements and Activities</h4>
